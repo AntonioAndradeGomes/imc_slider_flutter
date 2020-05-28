@@ -6,22 +6,22 @@ Consiste em uma simples calculadora de IMC feita com [Flutter](https://flutter.d
 
 Se faz uso do padrão Bloc no projeto e dos *packages* [Font Awesome Flutter](https://pub.dev/packages/font_awesome_flutter) e o [RxDart](https://pub.dev/packages/rxdart) que da acesso a programação reativa.
 
-<div class='box'>
+<div style="display: inline-block;">
     <img src = 'md/tela_home.jpg' width = '300' heigth = '600'/>
     <span> Tela Principal do App </span>
-<div>
-<div class='box'>
+</div>
+<div style="display: inline-block;">
     <img src = 'md/normal.jpg' width = '300' heigth = '600'/>
     <span> Calculo de IMC normal </span>
-<div>
-<div class='box'>
+</div>
+<div style="display: inline-block;" >
     <img src = 'md/obeso.jpg' width = '300' heigth = '600'/>
     <span> Calculo de IMC acima do peso </span>
-<div>
-<div class='box'>
+</div>
+<div style="display: inline-block;">
     <img src = 'md/magro.jpg' width = '300' heigth = '600'/>
     <span> Calculo de IMC abaixo do peso </span>
-<div>
+</div>
 
 <style>
     div.box{
